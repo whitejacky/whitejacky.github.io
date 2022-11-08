@@ -31,7 +31,7 @@ article {
 #bubble-wrapper{    
         height: 100%;    
         width: 100%;    
-        position:fixed;    
+        position:top;    
         bottom: 0px;    
         overflow: hidden;    
         pointer-events: none;
