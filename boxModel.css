@@ -46,7 +46,3 @@ article {
         top: 100%;    
         animation: wave 2s ease-in-out infinite;}
 
-@keyframes wave {    
-        from, to {transform:translate(-50%, 0%);}
-        50% {transform: translate(-50%,-20%);}
-      }
